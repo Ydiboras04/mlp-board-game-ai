@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets - never commit API keys
+kaggle.json
+access_token
+
+# Local copy prepared for a Kaggle dataset upload
+kaggle_upload/
