@@ -3,4 +3,5 @@ tensorflow>=2.16
 numpy>=1.26
 
 # Optional: only needed to push the notebook to Kaggle (kaggle kernels push -p kaggle_notebook)
-kaggle>=2.0
+# Keep this dependency optional; install it manually when needed via:
+#   pip install -r requirements-kaggle.txt
