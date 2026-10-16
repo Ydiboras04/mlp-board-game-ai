@@ -1,0 +1,3 @@
+# Optional Kaggle dependency for notebook publishing
+# Use only when you need to push a notebook or dataset to Kaggle.
+kaggle
